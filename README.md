@@ -19,3 +19,7 @@
 Диаграмма классов:
 
 ![Классов](https://user-images.githubusercontent.com/113045864/197415334-0476dd34-282d-4ee2-acb9-c8304e530001.png)
+
+
+Диаграмма деятельности:
+![Диаграмма деятельности](https://user-images.githubusercontent.com/113045864/197415600-e196a0c1-c1eb-471f-afd8-7f826687a82a.jpg)
